@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Reflection\Stealer\bin\Debug\Stealer.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Reflection\Stealer\bin\Debug\Stealer.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Reflection\Stealer\bin\Debug\Stealer.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Reflection\Stealer\obj\Debug\Stealer.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\Reflection\Stealer\obj\Debug\Stealer.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Reflection\Stealer\obj\Debug\Stealer.pdb
