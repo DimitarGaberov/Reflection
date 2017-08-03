@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\01HarestingFields\bin\Debug\01HarestingFields.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\01HarestingFields\bin\Debug\01HarestingFields.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\01HarestingFields\obj\Debug\01HarestingFields.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\01HarestingFields\obj\Debug\01HarestingFields.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\01HarestingFields\obj\Debug\01HarestingFields.pdb

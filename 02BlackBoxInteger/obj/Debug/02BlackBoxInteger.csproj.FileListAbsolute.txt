@@ -1,0 +1,6 @@
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe.config
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.pdb
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.exe
+C:\Users\dimit\Documents\Visual Studio 2017\Projects\Reflection\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.pdb
